@@ -1,9 +1,6 @@
 streamlit
 pandas
 numpy
-scikit-learn
 tensorflow
+scikit-learn
 plotly
-pyarrow
-pillow
-protobuf
