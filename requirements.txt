@@ -7,4 +7,4 @@ plotly>=5.11.0
 pygments==2.19.1
 markdown-it-py==3.0.0
 mdurl==0.1.2
-rich==14.0.0
+rich
